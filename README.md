@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **IT automation with Python**
 
-- 👯 I’m looking to collaborate on **Any project from which I can learn.**
+- 👯 I’m looking to collaborate on **any project from which I can learn.**
 
 - 📫 How to reach me **gabrielazaro97@gmail.com**
 
