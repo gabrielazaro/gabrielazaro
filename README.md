@@ -1,4 +1,4 @@
-![Banner de GitHub](Gabriela Zambrano Rodriguez Banner (2).jpg)
+![Banner de GitHub](/gabrielazaro/Gabriela Zambrano Rodriguez Banner (2).jpg)
 
 <h1 align="center">Hi 👋, I'm Gabriela Zambrano Rodriguez</h1>
 <h3 align="center">Fullstack developer with a bachelor's in Psychology. Currently working with Javascript, React, Python, and Flask using agile methodologies. I am passionate about learning about new technologies and finding innovative solutions.</h3>
