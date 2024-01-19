@@ -1,4 +1,4 @@
-![Presentacion](/banner.png)
+![Presentacion](/banner_actualizado.png)
 
 
 <h3 align="center">Fullstack developer with a bachelor's in Psychology. Currently working with Javascript, React, Python, and Flask using agile methodologies. I am passionate about learning about new technologies and finding innovative solutions.</h3>
