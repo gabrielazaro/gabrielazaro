@@ -1,4 +1,5 @@
-![Presentacion](/banner_actualizado.png)
+![Presentacion](/![bannerACT](https://github.com/gabrielazaro/gabrielazaro/assets/102486455/fa58874c-f235-45b1-8852-4e33ec8e3b57)
+)
 
 
 <h1 align="center">Hi 👋, I'm Gabriela Zambrano Rodriguez</h1>
